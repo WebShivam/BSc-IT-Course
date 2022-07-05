@@ -12,7 +12,7 @@ I'll share here all my projects and codes which I made during my whole 3 year co
   - [Data Structures & Algorithm]('#')  
   
 - [third-sem]('#')
-    - [BASH Programming]('#')
+    - [BASH Scripting]('#')
     - [Operating System]('#')
     - [DBMS]('#')
 
