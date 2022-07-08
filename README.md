@@ -17,6 +17,6 @@ I'll share here all my projects and codes which I made during my whole 3 year co
     - [DBMS]('#')
 
 - [fourth-sem](https://github.com/WebShivam/BSc-IT-Course/fourth-sem)
-  - [java programming]('#')
+  - [Java programming]('#')
   - [PHP Programming](https://github.com/WebShivam/BSc-IT-Course/fourth-sem/php)
   - [Computer Networks]('#')
