@@ -18,5 +18,5 @@ I'll share here all my projects and codes which I made during my whole 3 year co
 
 - [fourth-sem](https://github.com/WebShivam/BSc-IT-Course/fourth-sem)
   - [Java programming]('#')
-  - [PHP Programming](https://github.com/WebShivam/BSc-IT-Course/fourth-sem/php)
+  - [PHP Programming](https://github.com/WebShivam/BSc-IT-Course/tree/main/fourth-sem/php)
   - [Computer Networks]('#')
